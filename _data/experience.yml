@@ -1,44 +1,29 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Bynder
+  url: https://www.bynder.com/
+  time: Jan 2022 - Present
+  position: Senior Mobile Engineer
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: Bynder
+  url: https://web.bynder.edu/scout/
+  time: Jan 2019 - Dec 2021
+  position: Mobile Engineer
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Ubisoft Barcelona Mobile
+  url: hhttps://www.ubisoft.com/en-us/company/careers/locations/barcelona/ubisoft-barcelona-mobile/
+  time: Nov 2017 - Dec 2018
+  position: Platform Mobile Engineer
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Softonic
+  url: https://hello.softonic.com/
+  time: Aug 2015 - Oct 2017
+  position: Mobile UX Engineer (Android)
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: Technodac S.C.P.
+  url: https://www.technodac.com/
+  time: Jan - Jul 2015
+  position: Android developer
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: W3is2
+  url: http://www.w3is2.com/
+  time: Sep 2010 - Dec 2014
+  position: Android developer

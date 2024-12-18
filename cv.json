@@ -1,76 +1,78 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Eloi Navarro",
+    "label": "Senior Android Engineer",
+    "image": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/69e8f5bc-9ce0-40b4-ab2e-42aed2dd5a3b_6644f46f-84e8-4705-a.jpg",
+    "phone": "",
+    "email": "web@eloinavarro.com",
+    "url": "https://www.eloinavarro.com",
+    "summary": "I'm Eloi Navarro, a different kind of android engineer focused on building practical and useful experiences ",
+    "theme": "green",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "43830",
+      "city": "Torredembarra",
+      "countryCode": "ES",
+      "region": "Tarragona"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "eloinavarro",
+        "url": "https://https://www.linkedin.com/in/eloinavarro/"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "network": "StackOverflow",
+        "username": "eloi-navarro",
+        "url": "https://stackoverflow.com/users/1178445/eloi-navarro"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "EloiNavarro",
+        "url": "https://github.com/EloiNavarro"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Bynder",
+      "position": "Senior Mobile Engineer",
+      "location_type": "Remote",
+      "location": "Barcelona",
+      "url": "https://www.bynder.com",
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Refactor the app from scratch to use Jetpack Compose, expanding on existing functionality and using new tools to provide new ways to use mobile unique capabilities.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Changed the app navigation structure adding a «Home» screen providing user-relevant access to recent content."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Collaborated with backend developers to design and implement features using existing API.",
+        "Brainstorm and collaborate with product in producing new features to get more well rounded user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
+        "Jetpack Compose",
+        "Android",
+        "Koin",
+        "Retrofit",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Bynder",
+      "position": "Mobile Developer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "location": "Barcelona",
+      "url": "https://www.bynder.com",
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Maintain and develop new features for the android app of the company. Refactor old java codebase to kotlin.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Poposed an added new functionality to the app that was later adopted by both teams (iOS and Android) as a core feature."
       ],
       "responsibilities": [
         "Developed and maintained backend services using Python and Django.",
@@ -78,101 +80,130 @@
         "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Successfully transitioned from Java to Kotlin and from OAuth1 to OAuth2 in the process."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Android",
+        "Kotlin",
+        "Retrofit",
+        "Github"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "name": "Ubisoft",
+      "position": "Mobile Platform Engineer",
+      "location_type": "On-site",
+      "location": "Barcelona",
+      "url": "https://www.ubisoft.com",
+      "startDate": "2017-11-01",
+      "endDate": "2018-12-31",
+      "summary": "Assisted in expanding and updating in-house library tailor-made for several games' needs. Gained hands-on experience with C#, iOS and Unity3D.",
+      "achievements": [
+        "Upgraded event logging system reducing error rate in tracking events to less than 1%"
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Android",
+        "iOS",
+        "C#",
+        "Unity3D"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+      "name": "Softonic",
+      "position": "Android Engineer",
+      "location_type": "On-site",
+      "location": "Barcelona",
+      "url": "http://www.softonic.com",
+      "startDate": "2015-08-01",
+      "endDate": "2017-10-31",
+      "summary": "I join to be part of the mobile team, working in a multidisciplinary environment. Making use of agile and lean methodologies.",
+      "skills": [
+        "Android",
+        "Java",
+        "API REST"
+      ]
+    },
+    {
+      "name": "W3IS2 S.L.",
+      "position": "Android Developer",
+      "location_type": "On-site",
+      "location": "Tarragona",
+      "startDate": "2010-12-01",
+      "endDate": "2015-07-31",
+      "summary": "Main android developer, assuming more and more responsibility in projects and to undertake UX tasks such as wireframes or prototypes. Responsible for high level project definition, choosing specific technology. Working closely with the UI and UX designer. Self-demanding worker and always with the best quality as the only acceptable outcome.",
+      "skills": [
+        "Android",
+        "Java",
+        "XML"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Universitat Pompeu Fabra",
+      "url": "https://www.upf.edu/",
+      "area": "Usability, interaction design and user experience",
+      "studyType": "Postgraduate diploma",
+      "startDate": "2016-01-01",
+      "endDate": "2016-07-01"
+    },
+    {
+      "institution": "Universitat Rovira i Virgili",
+      "url": "https://www.urv.cat/en/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
+      "studyType": "Bachelor degree",
+      "startDate": "2010-01-01",
+      "endDate": "2015-06-30"
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "IES SEP Vidal i Barraquer",
+      "url": "https://www.vidalibarraquer.net/",
+      "area": "Computer and applications development",
+      "studyType": "Associate's degree",
+      "startDate": "2008-09-01",
+      "endDate": "2010-06-30"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Online certification on Unity 3d development",
+      "date": "2014-09-01",
+      "issuer": "Gametopia",
+      "url": "https://www.gametopia.es/"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Android",
+      "level": "Advanced",
+      "keywords": [
+        "Mobile",
+        "Android"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Advanced",
+      "keywords": [
+        "Mobile",
+        "Android"
+      ]
+    },
+    {
+      "name": "Jetpack Compose",
+      "level": "Advanced",
+      "keywords": [
+        "Android",
+        "UI"
+      ]
+    },
+    {
+      "name": "Adobe Xd",
+      "level": "Advanced",
       "keywords": [
         "Design",
-        "UI"
+        "UI",
+        "UX"
       ]
     },
     {
@@ -185,75 +216,8 @@
       ]
     },
     {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -262,103 +226,54 @@
     },
     {
       "name": "GitHub",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Version Control",
         "Collaboration",
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
+      "language": "English",
+      "fluency": "Fluent"
+    },
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "French",
+      "fluency": "Basic"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Bynder App",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Bynder DAM main Android application",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with Jetpack Compose",
+        "Refactored from Java to Kotlin"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://play.google.com/store/apps/details?id=com.bynder.bynder",
+      "github": ""
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Smart Beaches",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "A proof of concept app to showcase smart features centered around private beach services.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built in record time of two months ready for Fitur 2012",
+        "Close collaboration with design to provide a suitable solution"
       ],
-      "url": "https://ecommerce.com"
+      "github": ""
     }
   ]
 }

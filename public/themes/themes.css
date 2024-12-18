@@ -93,8 +93,8 @@
       --color-text-inverted: 230, 230, 230;
       --color-fill: 10, 20, 10;
       --muted: 54, 64, 54;
-      --color: 132, 204, 22;
-      --color-button-accent: 132, 204, 22;
+      --color: 76, 175, 80;
+      --color-button-accent: 76, 175, 80;
       --color-button-accent-hover: 120, 220, 120;
       --color-button-muted: 34, 44, 34;
     }
@@ -109,4 +109,5 @@
       --color-button-accent-hover: 0, 185, 255;
       --color-button-muted: 25, 81, 86;
     }
+  }
 }
